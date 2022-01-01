@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "Harry Potter",
+      "body": "It does not do to dwell on dreams and forget to live",
+      "author": "J.K. Rowling",
+      "id": 1
+    },
+    {
+      "title": "Game of Thrones",
+      "body": "A mind needs books like a sword needs a whetstone",
+      "author": "G.R.R Martin",
+      "id": 2
+    },
+    {
+      "title": "Lord of the Rings",
+      "body": "Not all those who wander are lost",
+      "author": "J.R.R. Tolkien",
+      "id": 3
+    },
+    {
+      "title": "Nefrangil",
+      "body": "The real world war has already won, there's another war to save the victory",
+      "author": "K.T.Kudagala",
+      "id": 4
+    },
+    {
+      "title": "The Witcher",
+      "body": "Destiny is a double edged sword",
+      "author": "Swasaski",
+      "id": 5
+    },
+    {
+      "title": "Merlin",
+      "body": "Only a true king can lift the sword of Excalibur",
+      "author": "Arthorian Legend",
+      "id": 6
+    }
+  ]
+}
